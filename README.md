@@ -9,7 +9,7 @@ Instead of searching through numerous schemes manually, users can describe their
 ## 🚀 Key Features
 
 * 🔍 **AI-Based Scheme Matching** — Matches user requirements with relevant government schemes.
-* 💬 **Natural Language Interaction** — Users can describe their needs in simple language.
+* 💬 **Natural Language Interaction** — Users can describe their needs in natural language.
 * 🎯 **Personalized Recommendations** — Considers user context and eligibility-related information.
 * 📚 **Scheme Knowledge Base** — Structured scheme data for efficient searching and matching.
 * 🇮🇳 **Designed for India** — Focused on improving access to Indian government schemes and support programs.
@@ -28,7 +28,6 @@ Instead of searching through numerous schemes manually, users can describe their
 
 * Python
 * Scheme data extraction and parsing
-* RAG Driven Scheme Recommendation
   
 ## 📂 Project Structure
 
